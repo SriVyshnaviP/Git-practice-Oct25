@@ -1,1 +1,3 @@
 Hello World! 
+such pathetic examples you takegit commit -m created and entered data into hello.txt!
+such pathetic examples you take for practicing git
