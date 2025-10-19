@@ -1,1 +1,2 @@
 second file for testing git pull 
+Hey amigo, editing second line to test git pull . buenas noches mi amigo
