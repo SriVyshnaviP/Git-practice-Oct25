@@ -1,1 +1,2 @@
 This is second file
+I am sending this through terminal
